@@ -5,13 +5,11 @@
 
 # $ cd crakv.2 
 
-# $ ls 
+# $ ls
 
-# $ cd drakfb.py 
+# $ git pull
 
-# $ ls 
-
-# $ python drakfb.py 
+# $ python scbf.py 
 
 
 # Jangan lupa subrek yt gw ya cuy https://youtube.com/channel/UCo-M_dtjins1-LTAzQ9fCNA 
