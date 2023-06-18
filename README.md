@@ -9,7 +9,7 @@
 
 # $ git pull
 
-# $ python KuningXLumut.py 
+# $ python kuningXLumut.py 
 
 
 # Jangan lupa subrek yt gw ya cuy https://youtube.com/channel/UCo-M_dtjins1-LTAzQ9fCNA 
